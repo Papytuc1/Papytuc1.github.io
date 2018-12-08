@@ -4,9 +4,10 @@
     font-size 16px;
     font-family:"Gill Sans Extrabold", sans-serif;
     background-color: white;
+    padding: 2%;
 }
 body{
-    background-color: dimgray;
+    background-color: #d6cecc;
 }
 .infoEtPhoto{
     height: 250px;
