@@ -1,0 +1,24 @@
+body{
+    border : 4px black solid;
+    width: 50%;
+    height: 200px;
+
+}
+.container{
+        background: url(FOND-ROUGE-NEUTRE.jpg);
+        padding-top: 26px;
+        font-family: monospace;
+        color: wheat;
+    font-style: italic;
+
+    
+}
+.nom{
+   
+    margin-left: 60%;
+}
+.info{
+    list-style-type: none;
+    margin-top: 10%;
+    
+}

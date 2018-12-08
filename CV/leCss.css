@@ -1,0 +1,56 @@
+.page {
+    width : 780px;
+    margin: auto;
+    font-size 16px;
+    font-family:"Gill Sans Extrabold", sans-serif;
+}
+.infoEtPhoto{
+    height: 250px;
+}
+.info{
+    float: left;
+}
+.photo{
+    float: right;
+}
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+h2{
+    font-size: 28px;
+    color: #00008B;
+    text-transform: uppercase;
+    border-bottom: 3px solid #00008B;
+}
+.sectionDeGauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+#forma-gauche p{
+    margin-bottom: 27px;
+}
+
+#exp-gauche p{
+    margin-bottom: -5px;
+}
+#langue{
+  line-height: 17px;
+}
+
+.sectionDeDroite{
+    margin-left: 150px;
+    margin-top: 37px;
+}
+strong{
+    font-size: 26px;
+}
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+.centre{
+    font-weight: bold;
+    font-size: 20px;
+}
