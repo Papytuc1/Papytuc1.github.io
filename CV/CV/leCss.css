@@ -1,8 +1,12 @@
 .page {
-    width : 780px;
+    width : 80%;
     margin: auto;
     font-size 16px;
     font-family:"Gill Sans Extrabold", sans-serif;
+    background-color: white;
+}
+body{
+    background-color: dimgray;
 }
 .infoEtPhoto{
     height: 250px;
