@@ -1,0 +1,86 @@
+/* Vos customisations des classes de Bootstrap */
+.navbar{
+    background-color: #353434;
+    margin:0;
+}
+.navbar-brand{
+    margin-left: 12%;
+    color: dimgray;
+    
+}
+.navbar-nav{
+    margin: 1% 0 0 45%;
+}
+.nav-item{
+    
+     top 17px;
+     margin-left: 12px;
+     color:dimgray;
+}
+#one{
+    font-weight: bold;
+    color: white;
+}
+#home{
+    background: url(../images/hero-image.jpg);
+    height: 690px;
+    width: 1524px;
+    color: white;
+    text-align: center;
+    
+}
+#goal{
+    font-size: 450%;  
+    padding-top: 2%
+}
+#all{
+    margin-top: 2%;
+    font-size: 140%;
+}
+.btn{
+    font-weight: bold;
+    font-size: 210%;
+    height: auto;
+    width: 15%;  
+    margin: 1%;
+}
+.centrer{
+    text-align: center;
+    margin-top: 2%;
+}
+#who{
+    text-align: center;
+    margin-top: 5%;
+}
+#weAre{
+    font-size: 200%;
+    font-weight: bold;
+    color: red;
+}
+hr{
+    width: 20%;
+    border-bottom: 1px red solid;;
+    background-color: red;
+    
+}
+#massiv{
+    width: 50%;
+    margin-left: 25%;
+    font-size: 120%;
+}
+#aca{
+    color: red;
+}
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}

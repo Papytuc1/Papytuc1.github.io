@@ -1,0 +1,70 @@
+.container{
+   
+}
+textarea{
+    text-align: center;
+    background-color: gray;
+    color: bisque;
+    font-size: 50px;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+.row-haut{
+    min-height: 150px;
+}
+#timer{
+    border-radius: 10px;
+
+    background-color: gray;
+}
+
+
+#todolist{
+    border-radius: 10px;
+  
+    background-color: gray;
+    font-size: 130%;
+    color:bisque;
+    font-family: sans-serif;
+}
+.strike{
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+.hidden{
+    display: none;
+}
+.fa-check{
+    color: green;
+    margin: 2% 2% 0 0;
+}
+.fa-times-circle{
+    color: darkred;
+    margin: 2% 2% 0 0;
+}
+
+.fa-play{
+    
+    background-color: transparent;
+    border: none;
+    color : green;
+    
+}
+.fa-pause-circle{
+    background-color: transparent;
+    border: none;
+    color : orange;
+    
+}
+.fa-stop{
+    background-color: transparent;
+    border: none;
+    color : red;
+}
+#timer{
+    font-size: 45px;
+    color: red;
+}
+#margin{
+    margin-top: 30%;
+}
