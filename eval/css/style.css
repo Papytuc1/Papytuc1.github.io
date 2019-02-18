@@ -145,22 +145,23 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 16px;
 }
 
 #ul1 {
     top: -24px;
 
     position: relative;
-    width: 19%;
+    width: 22%;
 }
 #ul2{
-    width: 19%;
+    width: 22%;
 }
 #ul3 {
     position: relative;
 
     top: -51px;
-    width: 19%;
+    width: 22%;
 }
 #logofooter{
     position: relative;
