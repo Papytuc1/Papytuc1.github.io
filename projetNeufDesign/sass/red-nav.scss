@@ -1,0 +1,60 @@
+/* 
+    Created on : 15 avr. 2019, 10:46:11
+    Author     : eric
+*/
+
+.red-bar {
+    width: 100vw;
+    height: 12vh;  
+    background-color:#ff0000;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.en-tete ul { 
+    width: 50vh;
+    list-style: none;
+    display: flex;
+    height: 75%;
+    justify-content: flex-end;
+}
+
+#vertical-line { 
+    width:1px;
+    height:10%;
+    position:absolute;
+    background-image: linear-gradient(rgba(255,255,255,0), white,rgba(255,255,255,0));
+    margin:0;
+    padding:0;
+    right: 18%;
+}
+
+.en-tete li { 
+    margin-top: 4vh;
+    margin-left: 1.3vw;
+    font-family: "reglobold", sans-serif;
+    color: white;
+}
+
+.en-tete li a { 
+    margin-right: 9.5vh;
+    font-family: $font-titre;
+    text-decoration: none;
+    color: white;
+}
+
+.en-tete li img {
+    margin-top: -3vh;
+    height: 200%;
+}
+
+.en-tete section {
+    height: 5vh;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.en-tete section img {
+    height: 10vh;
+    margin-right: 4vh;
+}

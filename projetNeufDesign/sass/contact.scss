@@ -1,0 +1,53 @@
+/* 
+    Created on : 8 avr. 2019, 14:42:41
+    Author     : eric
+*/
+
+.container-contact {
+    height: 100vh;
+    background: url(../asset/img/background-contactWF.png) no-repeat;
+    background-size: cover;
+}
+
+.block-center-contact {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 40vh;
+    margin-top: 25vh;
+}
+
+.bloc-right-contact {
+    color: #ff0000;
+    font-size: large;
+}
+
+.font-goth{
+    font-family: $font-texte;
+    font-weight: bold;
+}
+
+.font-reglo{
+    font-family: $font-titre;
+}
+
+.space-letter3px{
+    letter-spacing: 3px;
+}
+
+.space-letter2px {
+    letter-spacing: 2px;
+}
+
+.space-letter-neg2px {
+    letter-spacing: -2px;
+}
+
+.contact-num {
+    line-height: 50px;
+}
+
+.localisation {
+    line-height: 35px;
+    padding-top: 30px;
+}
+

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Letter Gothic Std';
+    src: url('LetterGothicStd.woff2') format('woff2'),
+        url('LetterGothicStd.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
